@@ -1,0 +1,23 @@
+﻿localHost
+Pname
+0
+false
+false
+preview
+true
+true
+true
+true
+test
+:
+ip add   127.0.0.1	localHost
+displayname
+setting code
+fullScreen
+Opacity
+preview    or not
+Antialiasing vlue
+Antialiasing text
+Antialiasing Main
+Antialiasing Main2
+startName
